@@ -104,7 +104,7 @@ export default function Layout() {
             <footer className="bg-white/80 backdrop-blur-sm border-t border-gray-200 mt-8 sm:mt-12 md:mt-16">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 sm:py-6">
                     <p className="text-center text-xs sm:text-sm text-gray-500">
-                        © 2024 HRMS Lite. All rights reserved.
+                        build by Yogendra Mishra.
                     </p>
                 </div>
             </footer>
